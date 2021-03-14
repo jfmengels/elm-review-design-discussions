@@ -1,3 +1,5 @@
+**Moved to [`elm-review`'s discussions](https://github.com/jfmengels/elm-review/discussions/categories/ideas)**
+
 # Design discussions for elm-review
 
 [`elm-review`](https://package.elm-lang.org/packages/jfmengels/elm-review/latest/) is a project spanning multiple repositories. It can be a bit difficult to propose improvements or new features to the project, especially when the feature spans multiple parts (Elm package, CLI, editors...).
